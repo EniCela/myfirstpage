@@ -1,0 +1,15 @@
+@media(max-width:700px){
+    .coment{
+        flex-direction: column;
+    }
+}
+@media(max-width:700px){
+    .foto{
+        flex-direction: column;
+    }
+}
+@media(max-width:700px){
+    .row1{
+        flex-direction: column;
+    }
+}
